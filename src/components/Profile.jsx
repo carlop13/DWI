@@ -5,8 +5,9 @@ const Profile = () => {
     <div>
       <h1>Mi Perfil</h1>
       <p>Nombre: Carlos</p>
-      <p>Email: car.@gmail.com.com</p>
+      <p>Email: carlosguadalupelt13.@gmail.com.com</p>
       <p>Biografía: Soy un desarrollador de software apasionado por la tecnología y la innovación.</p>
+      <p>Programo en PHP</p>
     </div>
   );
 }
