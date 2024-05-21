@@ -12,7 +12,7 @@ function Index() {
             <br />
             <div className="estiloBoton">
                 <button className="boton1">Ir al listado de tareas</button>
-                <button>Más sobre mí</button>
+                <button className="boton2">Más sobre mí</button>
             </div>
         </div>
       </>
