@@ -1,0 +1,14 @@
+.tasklist-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .tasklist-container h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .tasklist-container p {
+    font-size: 1.2em;
+  }
+  
