@@ -1,0 +1,11 @@
+.estiloBoton {
+    display: flex;
+    justify-content: space-evenly;
+    /*text-decoration: none;
+    color: #fff;*/
+}
+
+.boton1 {
+    background-color: #bc92ff;
+    color: floralwhite;
+}
